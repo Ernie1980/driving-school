@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("/images/hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    width: 50%;
+    height: 10%
+    position: relative;
+    top: 5em;
+    z-index: 3;
+}
+
+.navbar ul li {
+    font-size: large;
+    text-decoration: none;
+    color: white;
+}
